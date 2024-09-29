@@ -72,7 +72,7 @@ Saya memiliki ketertarikan yang kuat pada berbagai bidang teknologi dan pengemba
 - **Deskripsi:** Proyek ini bertujuan untuk merancang antarmuka pengguna (UI) dan pengalaman pengguna (UX) untuk aplikasi Orquest, sebuah permainan interaktif yang mengajarkan nilai-nilai Islam melalui berbagai level dan jenis soal, termasuk kuis dan teka-teki. Dalam proyek ini, saya fokus pada penciptaan antarmuka yang menarik dan intuitif, sehingga pengguna dapat dengan mudah berinteraksi dan belajar. Melalui riset pengguna dan pengujian prototipe, desain yang dihasilkan tidak hanya menyenangkan tetapi juga mendidik.
 - **Pencapaian:** Meraih juara 11 pada lomba desain aplikasi Al-Qur'an (DAQ) di MTQMN XVII tahun 2023
 - **Teknologi:** Figma
-- **Tautan:** [Figma Prototype](https://www.figma.com/proto/aUFK2g0N90JwC9ESVhEHrK/Untitled?node-id=0-1&t=2dTGeK7MSuUjUj8G-1) | [Nilai](https://drive.google.com/drive/folders/1vBic5LOBVDFlPYsJontNrC20SJ1sFC-l)
+- **Tautan:** [Figma Prototype](https://www.figma.com/proto/aUFK2g0N90JwC9ESVhEHrK/Untitled?node-id=0-1&t=2dTGeK7MSuUjUj8G-1) | [Nilai](https://drive.google.com/file/d/18JqbVn4eVp88-XBpb8WYSRg--k_rMygJ/view?usp=sharing)
 
 2. **[Desain UI/UX untuk Aplikasi LabKu](#)**
 
